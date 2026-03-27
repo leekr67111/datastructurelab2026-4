@@ -1,0 +1,5 @@
+﻿  Class.cpp
+C:\Users\USER\Documents\datastructurelab2026-4\새 폴더 (2)\Project1\Project1\Class.cpp(5,1): error C2011: 'Complex': 'class' 형식 재정의
+  C:\Users\USER\Documents\datastructurelab2026-4\새 폴더 (2)\Project1\Project1\Complex.h(7,7):
+  'Complex' 선언을 참조하십시오.
+  
